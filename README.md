@@ -202,6 +202,8 @@
 	+ https://github.com/zhanghang1989/PyTorch-Encoding [PyTorch]
 - Unet++ [https://arxiv.org/pdf/1807.10165.pdf] [2018]
 	+ https://github.com/MrGiovanni/UNetPlusPlus [Keras]
+- SOLO  [https://arxiv.org/pdf/1912.04488.pdf] [2019]
+	+ https://github.com/Epiphqny/SOLO [PyTorch]
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
